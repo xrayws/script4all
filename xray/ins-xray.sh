@@ -130,7 +130,7 @@ cat > /etc/xray/config.json << END
        "streamSettings":{
          "network": "ws",
             "wsSettings": {
-                "path": "/vmess"
+                "path": "http://tsel.me/worryfree"
           }
         }
      },
